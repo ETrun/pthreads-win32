@@ -1,0 +1,24 @@
+# VS related
+ipch/
+*.sdf
+*.opensdf
+*.ncb
+*.suo
+*.user
+*.filters
+*.vcxproj
+*.sln
+
+# Xcode related
+src/*.xcodeproj/project.xcworkspace
+src/*.xcodeproj/xcuserdata
+
+# Others
+*~
+*.log
+.DS_Store
+
+# CMake
+CMakeFiles
+CMakeCache.txt
+*.cmake
